@@ -15,5 +15,5 @@ To run this project, you will need to add the following environment variables to
 `GEOCODER_API_KEY`
 ## Demo App
 
-![Store locator]('![Store Add](images/store.png)')
-![Store locator]('![Map Part](images/map.png)')
+('![Store Add](images/store.png)')
+('![Map Part](images/map.png)')
